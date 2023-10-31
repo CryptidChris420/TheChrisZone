@@ -1,0 +1,29 @@
+<!DOCTYPE html> <html>
+  <head> <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Atomic+Age&family=Black+And+White+Picture&family=Cherry+Bomb+One&family=Chokokutai&family=Darumadrop+One&family=Hanalei&family=Libre+Barcode+128+Text&family=Monofett&family=Nabla&family=Nosifer&family=Oi&family=Pixelify+Sans&family=Rock+3D&family=Rubik+Glitch&family=Shizuru&display=swap" rel="stylesheet">
+ <style>
+       body {background-image: url("galaxy.jpeg");text-align: center;font-family:pixelify sans;font-size:30px;}
+       h1 {color:#00ff00; background-color:rgba(64,3,99, 0.5);}
+       h2 {color:#00ff00;}
+       h3 {font-size:15px;font-family:rubik glitch;color:#ffffff;text-shadow: 2px 2px #00fff2, -2px -2px #ff0000;}
+       p {color:#00ff00;font-size:20px;}
+       a {text-decoration:none;color:#00ff00;font-size:22px;}
+       #spotify {color:#42f554;font-size:30px;}
+       #goatlings {color:#ff5cc6;}
+       #ufo {height:100px; width:100px;}
+       #wizardlink {font-size:30px}
+  </style></head>
+ <body>
+<h1> All About Me! <h1> </div>
+  <h2> Christopher Stanford <a href="wizpage" id="wizardlink">"The Wizard"</a>Pines </h2>
+  <p> aka Cryptid Chris </p>
+<br>
+ <a href="glitch"> <img src="ufo.gif" id="ufo"></a>
+  <p> Hi there! My name is Christopher Pines, but you can call me Chris! As of today I am about <a href="https://www.thecalculatorsite.com/misc/birthday-calculator.php?birthdate=20010720">22.3 years old! </a>
+  <p> Im Trans+Nonbinary, and I have adhd and autism, amongst other brain things going on, so I'm really silly and goofy lol </p>
+<p>I like to make art of all kinds, and I am studying at <a href="https://www.saic.edu/">SAIC.</a> I hope to be an animator, storyboard artist, voice actor, and writer for my own show one day. I really love cartoons/anime or any kind of animation really. Cartoons are my main hyperfixation, so I could talk about them all day. </p> 
+  <p> Some of my other hobbies include listening to <a href="https://spotify.link/qpm5vhRnYDb" id="spotify">music,</a>playing video games, and playing <a href="https://www.goatlings.com/profile/u/63697" id="goatlings"> Goatlings</a> which is a virtual pet game online!</p>
+  <p>But enough about me....</p>
+ <br>
+<h3>Click the Alien to begin...</h3>

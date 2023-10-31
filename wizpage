@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head> <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Cherry+Bomb+One&family=Creepster&family=Libre+Barcode+39&family=Metal+Mania&family=Nosifer&family=Pixelify+Sans&display=swap" rel="stylesheet">
+<style>
+  body{text-align: center; background-image:url(bluestartile.jpeg);background-size: 100px 100px;}
+  p{font-family:metal mania; font-size: 50px;color:#21078a;text-shadow:3px 3px #0d013b;}
+  img {width:500px; height:500px;}
+</style></head>
+<body>
+<p> WIZARD MEMES </p>
+<img src="wizardderall.jpeg" >
+<img src="allergywiz.jpeg">
+<img src="wizcode.jpeg">
+<img src="wizquest.jpeg">
+<img src="wizardmemerequest.jpeg">
+
+</body>
